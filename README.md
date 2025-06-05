@@ -48,8 +48,8 @@ python main.py --mean 10 20 30 40
 
 ### Web UI:
 
-1. Open the app in your browser.
-2. Enter your data or upload a file.
+1. Open the app in your terminal.
+2. Upload a file.
 3. Choose the statistical operation.
 4. Get results with optional steps.
 
