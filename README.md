@@ -46,7 +46,7 @@ python main.py
 python main.py --mean 10 20 30 40
 ```
 
-### Web UI:
+### CLI UI:
 
 1. Open the app in your terminal.
 2. Upload a file.
