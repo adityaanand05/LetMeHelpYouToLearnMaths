@@ -36,6 +36,7 @@ public :
 int main() {
     Mean x;
     x.printMean();
+    
 
     return 0;
 }
