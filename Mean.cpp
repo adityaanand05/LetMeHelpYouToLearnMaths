@@ -9,8 +9,9 @@ public :
     Mean (){
         cout<<"Enter Total Number of Elements :";
         cin>>x;
-        cout<<"Enter Your Elements :";
+        
         for(int i=0;i<x;i++){
+            cout<<"Enter Your Element :";
             int a;
             cin>>a;
             num.push_back(a);
