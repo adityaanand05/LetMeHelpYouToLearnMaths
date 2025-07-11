@@ -23,14 +23,13 @@ public:
     }
     void sortAscending()
     {
-        // Bubble sort
+
         for (int i = 0; i < x - 1; i++)
         {
             for (int j = 0; j < x - i - 1; j++)
             {
                 if (num[j] > num[j + 1])
                 {
-                    // Swap
                     int temp = num[j];
                     num[j] = num[j + 1];
                     num[j + 1] = temp;
