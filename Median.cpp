@@ -47,7 +47,7 @@ public:
         }
         if (x % 2 == 0)
         {
-            cout << "\nYour Median is at " << num.size() / 2 << " or " << (num.size() / 2) + 1 << " and value : " << num[(num.size() / 2) - 1] << " or " << num[num.size() / 2] <<" or equivalent Median ->"<<(float)(num[(num.size() / 2) - 1] + num[num.size() / 2])/2 << endl;
+            cout << "\nYour Median is at " << num.size() / 2 << " or " << (num.size() / 2) + 1 << " and value : " << num[(num.size() / 2) - 1] << " or " << num[num.size() / 2] << " or equivalent Median ->" << (float)(num[(num.size() / 2) - 1] + num[num.size() / 2]) / 2 << endl;
         }
         else
         {
